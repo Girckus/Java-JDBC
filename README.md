@@ -1,5 +1,5 @@
 # Java JDBC Project Example
-Example of a CRUD project example using Java JDBC from the Alura course "Java Reflection parte 1: entendendo a metaprogramação" and "Java Reflection parte 2: Anotações e Injeção de Dependências"
+Example of a CRUD project example using Java JDBC from the Alura course "Java e JDBC: trabalhando com um banco de dados"
 
 ## Usage
 - Set up the database on MYSQL (database name "byte_bank")
